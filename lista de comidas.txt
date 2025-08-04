@@ -1,13 +1,7 @@
-<<<<<<< HEAD
 1. Coxinha
 2. Suco
 3. Refri
 4. Mousse de Maracujá
 5. Morango do amor
 6. Brigadeiro
-=======
-- Coxinha
-- Mousse de Maracujá
-- Morango do amor
-- Torta de Limão
->>>>>>> e2215ca74ad09c7be3a7eced159b3f75284770ef
+7. Torta de Limão
